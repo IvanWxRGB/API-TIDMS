@@ -1,0 +1,42 @@
+{
+    "ciudad": "Morelia",
+    "fecha": "2023-03-08",
+    "noticias": [
+      {
+        "titulo": "Investigación a Silvano Aureoles le corresponde a la Fiscalía, afirma Claudia Sheinbaum",
+        "descripcion": "La jefa de gobierno de la Ciudad de México señaló que las investigaciones relacionadas con el exgobernador de Michoacán...",
+        "categoria": "Política",
+        "fecha_publicacion": "2023-03-08",
+        "enlace": "https://cnn.com.mx/silvanoaureoles",
+        "etiquetas": ["Fiscalía", "Gobierno", "Morelia"],
+        "comentarios": [
+          {
+            "usuario": "CarlosPerez",
+            "comentario": "Esperemos que se llegue a una resolución justa.",
+            "fecha": "2023-03-08"
+          },
+          {
+            "usuario": "AnaLopez",
+            "comentario": "Este tema ya lleva tiempo sin avances.",
+            "fecha": "2023-03-08"
+          }
+        ]
+      },
+      {
+        "titulo": "Usuarios del transporte, afectados por riña entre COMIT y combis en Morelia",
+        "descripcion": "El enfrentamiento entre transportistas dejó a varios usuarios varados y generó caos vial en distintas partes de la ciudad",
+        "categoria": "Social",
+        "fecha_publicacion": "2023-03-02",
+        "enlace": "https://cnn.com.mx/transporte-morelia",
+        "etiquetas": ["Transporte", "Riña", "Usuarios"],
+        "comentarios": [
+          {
+            "usuario": "JuanPerez",
+            "comentario": "Siempre los mismos problemas con el transporte público.",
+            "fecha": "2023-03-02"
+          }
+        ]
+      }
+    ]
+  }
+  
