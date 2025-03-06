@@ -1,0 +1,75 @@
+{
+  "noticias": [
+    {
+      "titulo": "Nueva IA revoluciona la programación",
+      "fecha": "2025-03-06",
+      "autor": "Juan Pérez",
+      "contenido": "Un nuevo modelo de inteligencia artificial está cambiando la forma en que los desarrolladores escriben código, permitiendo automatizar tareas repetitivas y mejorar la eficiencia del desarrollo de software.",
+      "fuente": "https://tecnologiahoy.com/ia-programacion"
+    },
+    {
+      "titulo": "Apple lanza su nuevo chip M5",
+      "fecha": "2025-03-06",
+      "autor": "María Gómez",
+      "contenido": "El nuevo procesador M5 de Apple promete un rendimiento sin precedentes con mejoras en eficiencia energética y potencia de procesamiento, dirigido tanto a usuarios profesionales como a gamers.",
+      "fuente": "https://tecnologiahoy.com/apple-m5"
+    },
+    {
+      "titulo": "Tesla presenta su nuevo modelo autónomo",
+      "fecha": "2025-03-06",
+      "autor": "Carlos Rodríguez",
+      "contenido": "Tesla ha revelado su última innovación en vehículos eléctricos: un coche completamente autónomo que utiliza IA avanzada para mejorar la seguridad y la experiencia de conducción.",
+      "fuente": "https://tecnologiahoy.com/tesla-autonomo"
+    },
+    {
+      "titulo": "Google anuncia su nuevo buscador con IA",
+      "fecha": "2025-03-06",
+      "autor": "Laura Fernández",
+      "contenido": "Google ha presentado un nuevo motor de búsqueda potenciado por inteligencia artificial, que mejora la precisión de los resultados y personaliza la experiencia del usuario.",
+      "fuente": "https://tecnologiahoy.com/google-buscador-ia"
+    },
+    {
+      "titulo": "Microsoft lanza su plataforma de desarrollo cuántico",
+      "fecha": "2025-03-06",
+      "autor": "Ricardo Sánchez",
+      "contenido": "Microsoft ha revelado una nueva plataforma que facilita el acceso a la computación cuántica para desarrolladores, abriendo nuevas posibilidades en el ámbito del software.",
+      "fuente": "https://tecnologiahoy.com/microsoft-cuantico"
+    },
+    {
+      "titulo": "Avances en baterías de estado sólido",
+      "fecha": "2025-03-06",
+      "autor": "Ana Torres",
+      "contenido": "Investigadores han desarrollado una nueva tecnología de baterías de estado sólido que ofrece mayor autonomía y seguridad en dispositivos electrónicos y vehículos eléctricos.",
+      "fuente": "https://tecnologiahoy.com/baterias-solido"
+    },
+    {
+      "titulo": "Meta introduce avatares hiperrealistas en el metaverso",
+      "fecha": "2025-03-06",
+      "autor": "Javier López",
+      "contenido": "Meta ha lanzado avatares hiperrealistas en su plataforma de metaverso, mejorando la interacción y la inmersión en entornos virtuales.",
+      "fuente": "https://tecnologiahoy.com/meta-avatares"
+    },
+    {
+      "titulo": "Samsung revela su smartphone plegable más avanzado",
+      "fecha": "2025-03-06",
+      "autor": "Elena Martínez",
+      "contenido": "Samsung ha presentado su última generación de smartphones plegables, con pantallas más resistentes y mejor rendimiento.",
+      "fuente": "https://tecnologiahoy.com/samsung-plegable"
+    },
+    {
+      "titulo": "Intel revoluciona los procesadores con arquitectura 3D",
+      "fecha": "2025-03-06",
+      "autor": "Fernando Castro",
+      "contenido": "Intel ha desarrollado una nueva arquitectura 3D para sus procesadores, aumentando el rendimiento y la eficiencia energética.",
+      "fuente": "https://tecnologiahoy.com/intel-3d"
+    },
+    {
+      "titulo": "NASA prueba su nuevo rover para la exploración de Marte",
+      "fecha": "2025-03-06",
+      "autor": "Silvia Ramírez",
+      "contenido": "La NASA ha realizado pruebas exitosas con su nuevo rover, diseñado para explorar Marte con mayor autonomía y precisión científica.",
+      "fuente": "https://tecnologiahoy.com/nasa-rover"
+    }
+  ]
+}
+  
